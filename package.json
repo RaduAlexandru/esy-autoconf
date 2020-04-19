@@ -17,7 +17,7 @@
       [
         "ln",
         "-s",
-        "/usr/bin/true",
+        "/usr/bin/false",
         "#{ self.bin / 'makeinfo' }"
       ],
       [
